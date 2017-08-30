@@ -1,6 +1,6 @@
 # PostCSS自学笔记（二）【插件篇】
 
-继上一次[PostCSS学习指南（一）](https://github.com/whidy/whidyNotes/issues/1)后，渐渐开始在项目中应用。
+继上一次[PostCSS学习指南（一）](https://github.com/whidy/whidyNotes/blob/master/notes/201708/PostCSS%E8%87%AA%E5%AD%A6%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%E3%80%90%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E7%AF%87%E3%80%91.MD)后，渐渐开始在项目中应用。
 
 这次决定主要讲解一些个人认为非常有帮助的PostCSS插件。
 
