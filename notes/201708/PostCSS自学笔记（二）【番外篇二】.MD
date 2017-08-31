@@ -46,7 +46,7 @@
 
 > The load order for plugins is something that will change with each set of plugins, so you may find you just need to do a little experimentation sometimes to get everything working together nicely.
 
-鄙人译：你所设置的每个插件都会被加载的插件顺序所影响，因此强烈建议你在某些情况下多做些测试来让你的插件们运行的更加完美~
+鄙人译：*你所设置的每个插件都会被加载的插件顺序所影响，因此强烈建议你在某些情况下多做些测试来让你的插件们运行的更加完美~*
 
 好了看到这里，其实答案大致已经揭晓，也许你觉得这不是很自然的从上而下么，为何作者要纠结这么久还写了这么一篇长篇大论的文章。如果你还没看过之前我为何纠结这个顺序问题，可以看看[PostCSS自学笔记（二）【插件篇】#CSSNANO](https://github.com/whidy/Notes/blob/master/notes/201708/PostCSS%E8%87%AA%E5%AD%A6%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%90%E6%8F%92%E4%BB%B6%E7%AF%87%E3%80%91.MD#cssnano)部分以及[PostCSS自学笔记（二）【番外篇一】](https://github.com/whidy/Notes/blob/master/notes/201708/PostCSS%E8%87%AA%E5%AD%A6%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%90%E7%95%AA%E5%A4%96%E7%AF%87%E4%B8%80%E3%80%91.MD)。
 
